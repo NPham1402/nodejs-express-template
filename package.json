@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
+    "dayjs": "^1.11.13",
     "debug": "~2.6.9",
     "dotenv": "^16.5.0",
     "express": "~4.16.1",
@@ -14,7 +15,8 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "nodemon": "^3.1.10",
-    "postgres": "^3.4.7"
+    "postgres": "^3.4.7",
+    "redis": "^5.1.0"
   },
   "license": "MIT"
 }
